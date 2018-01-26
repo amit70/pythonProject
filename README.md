@@ -1,3 +1,2 @@
-# pythonProject
-Simple Login/Register python application
-Introduction
+# Introduction
+A Simple Login/Register application 
